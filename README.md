@@ -2,7 +2,7 @@
 
 <h2>Most used languages:</h2>
 
-<img src="https://img.shields.io/static/v1?message=JavaScript&color=yellow" alt="JavaScript"/> <img src="https://img.shields.io/static/v1?message=ReactJS&color=blue" alt="ReactJS"/> <img src="https://img.shields.io/static/v1?message=Ruby&color=red" alt="Ruby"/>
+<img src="https://img.shields.io/badge/Language-JavaScript-yellow" alt="JavaScript"/> <img src="https://img.shields.io/badge/Language-ReactJS-blue" alt="ReactJS"/> <img src="https://img.shields.io/badge/Language-Ruby-red" alt="Ruby"/>
 
 <h2> 📫 Contact Me: </h2>
   <a href="mailto:whitney.smith.lee@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
