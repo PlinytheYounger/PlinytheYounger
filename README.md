@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/static/v1?message=JavaScript&color=yellow" alt="JavaScript"/> <img src="https://img.shields.io/static/v1?message=ReactJS&color=blue" alt="ReactJS"/> <img src="https://img.shields.io/static/v1?message=Ruby&color=red" alt="Ruby"/>
 
 <h2> 📫 Contact Me: </h2>
-  [Gmail](www.whitney.smith.lee@gmail.com)
+  [Gmail](sendto: whitney.smith.lee@gmail.com)
   
   [Website](www.whitneysmith.dev)
   
