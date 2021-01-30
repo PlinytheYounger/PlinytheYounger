@@ -6,7 +6,9 @@
 
 <h2> 📫 Contact Me: </h2>
   [Gmail](www.whitney.smith.lee@gmail.com)
+  
   [Website](www.whitneysmith.dev)
+  
   [LinkedIn](https://www.linkedin.com/in/whitneyleesmith/)
   
 <h2> 😄 Pronouns: she/her </h2>
