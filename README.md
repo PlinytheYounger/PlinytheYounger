@@ -1,10 +1,8 @@
 <h1 align="center">Whitney Smith</h1>
 
-- 🔭 I’m currently working on an application to pull together political data in order to give the public a more cohesive view of what the constiuents they voted for are actually supporting and how best to get their bills passed.
+<h2>Most used languages:<h2>
 
-Most used languages:
-
-<img src="https://img.shields.io/static/v1?message=JavaScript&color=yellow" alt="JavaScript"/>
+<img src="https://img.shields.io/v1?message=JavaScript&color=yellow" alt="JavaScript"/> <img src="https://img.shields.io/v1?message=ReactJS&color=blue" alt="ReactJS"/> <img src="https://img.shields.io/v1?message=Ruby&color=red" alt="Ruby"/>
 
 - 📫 Contact Me: 
   - [Gmail](whitney.smith.lee@gmail.com)
