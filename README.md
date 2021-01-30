@@ -7,7 +7,7 @@
 <h2> 📫 Contact Me: </h2>
   <a href="mailto:whitney.smith.lee@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
-  [Website](whitneysmith.dev)
+  [Website](https://whitneysmith.dev)
   
   [LinkedIn](https://www.linkedin.com/in/whitneyleesmith/)
   
