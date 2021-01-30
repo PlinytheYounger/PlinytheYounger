@@ -8,4 +8,5 @@
   - [Gmail](whitney.smith.lee@gmail.com)
   - [Website](whitneysmith.dev)
   - [LinkedIn](https://www.linkedin.com/in/whitneyleesmith/)
+  
 <h2> 😄 Pronouns: she/her </h2>
