@@ -1,4 +1,4 @@
-### Whitney Smith
+<h1 align="center">Whitney Smith</h1>
 
 - 🔭 I’m currently working on an application to pull together political data in order to give the public a more cohesive view of what the constiuents they voted for are actually supporting and how best to get their bills passed.
 
