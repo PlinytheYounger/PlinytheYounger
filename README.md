@@ -9,6 +9,8 @@
   
   [Website](https://whitneysmith.dev)
   
+  [Website Source Code & Resume](https://github.com/PlinytheYounger/whitney-portfolio)
+  
   [LinkedIn](https://www.linkedin.com/in/whitneyleesmith/)
   
 <h2> 😄 Pronouns: she/her </h2>
